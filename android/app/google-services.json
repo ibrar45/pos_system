@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "701649766488",
+    "project_id": "alfpos-47c3d",
+    "storage_bucket": "alfpos-47c3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701649766488:android:12bf375e31a9e7c940e22d",
+        "android_client_info": {
+          "package_name": "com.example.pos_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhblqMTlYane3p8JJfy7iFUcXFpOhaH1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
